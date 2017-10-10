@@ -1106,66 +1106,66 @@ HECAP a rapidement assimilé(e) les arts du subterfuge et de l'assassinat. C'ét
 		<desc>NAME a toujours trouvé les machines fascinantes et a passé tout son temps à étudier la robotique et l'holographie. HECAP préférait s'entourer de ses propres créations plutôt que de côtoyer des humains.</desc>
 	</AwkwardNerd12>
 	<AIResearcher30>
-		<title>AI researcher</title>
-		<titleShort>Researcher</titleShort>
-		<desc>Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication.</desc>
+		<title>Chercheur en IA</title>
+		<titleShort>Chercheur</titleShort>
+		<desc>Dave a été un chercheur renommé en intelligence artificielle, robotique, et holographie interactive. Son amitié avec les esprits artificiels qu'il a créé lui a donné la confiance pour interéagir avec des personnes réelles, et il a rapidement excellé dans la conversation.</desc>
 	</AIResearcher30>
 	<MidworldGeek88>
 		<title>Midworld geek</title>
 		<titleShort>Geek</titleShort>
-		<desc>NAME grew up in a quiet suburban neighborhood. He was never a master of social interaction, but his interest in computers blossomed into a true talent at an early age.</desc>
+		<desc>NAME a grandi dans un environnement suburbain calme. Il n'a jamais vraiment été un maître des interactions sociales, mais son intérêt pour les ordinateurs a évolué en un vrai talent alors qu'il était encore très jeune.</desc>
 	</MidworldGeek88>
 	<ArmyScientist54>
-		<title>Army scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>NAME did scientific research for a planetary army. HECAP studied war scenarios and designed weapon systems to help win battles with a minimum of fuss.</desc>
+		<title>Scientifique militaire</title>
+		<titleShort>Scientifique</titleShort>
+		<desc>NAME a fait des recherches scientifiques pour une armée planétaire. HECAP a étudié les scénarios de guerre et a conceptualisé des systèmes d'armes pour aider à gagner des batailles avec un minimum d'ennui.</desc>
 	</ArmyScientist54>
 	<CatHerder45>
-		<title>Cat herder</title>
-		<titleShort>Herder</titleShort>
-		<desc>NAME helped out in his father's cat breeding business, socializing, herding, and feeding hundreds of cats.
+		<title>Gardien de chat</title>
+		<titleShort>Eleveur</titleShort>
+		<desc>NAME a aidé dans l'élevage de chat de son père, fréquentant, élevant, et nourrissant des centaines de chats.
 
-When he refused to clean up after the cats, HE was transferred to the breeding science division.</desc>
+Quand il a refusé de nettoyer les saletés des chats, IL a été transféré dans une division d'élevage scientifique.</desc>
 	</CatHerder45>
 	<FelineScientist25>
-		<title>Feline scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>NAME became a renowned scientist in the field of felines. Wanting the best for his animals and specializing in selective breeding, he set out on a journey to find the perfect breeding grounds for his cats.</desc>
+		<title>Scientifique félin</title>
+		<titleShort>Scientifique</titleShort>
+		<desc>NAME est devenu un scientifique renommé dans le domaine des félins. En attendant le meilleur pour ses animaux et en se spécialisant dans un élevage séléctif, il a entrepris un voyage pour trouver le terrain parfait pour élever ses chats.</desc>
 	</FelineScientist25>
 	<Scavenger26>
-		<title>Scavenger</title>
-		<titleShort>Scavenger</titleShort>
-		<desc>NAME grew up in one of the few remaining cities on a world ravaged by nuclear war.
+		<title>Charognard</title>
+		<titleShort>Charognard</titleShort>
+		<desc>NAME a grandi dans un des dernières villes restantes dans un monde ravagé par la guerre nucléaire.
 
-HECAP learned to survive on HIS own in this post-apocalyptic wasteland by scavenging for technology and supplies.</desc>
+HECAP a appris à survivre par lui même dans ce terrain vague post-apocalyptique en fouillant pour récupérer des technologies et des provisions.</desc>
 	</Scavenger26>
 	<SpaceMarine90>
 		<title>Space marine</title>
 		<titleShort>Marine</titleShort>
-		<desc>NAME was recruited into the security forces of an off-planet corporation.
+		<desc>NAME a été recruté dans les forces de sécurité d'une société d'une planète éteinte.
 
-HECAP defended their ships against pirates and engaged in private space warfare contracts.</desc>
+HECAP a défendu leur vaisseau contre des pirates et s'est engagé dans une lutte spatiale privée sur contrat.</desc>
 	</SpaceMarine90>
 	<VatgrownAssassin17>
-		<title>Vatgrown assassin</title>
+		<title>Assassin procréé</title>
 		<titleShort>Clone</titleShort>
-		<desc>Vas was not made as a man, but a cold hearted assassin. He was bio-engineered by scientists, and trained as a killer. He was bred to have no emotion, no feelings, and no care for who lives, and who dies.</desc>
+		<desc>Vas n'était pas fait comme un homme, mais plutot comme un assassin de sang-froid. Il était un organisme biologénétique créé par des scientifiques, et entraîné ^à être un tueur. Il a été entraîné pour n'avoir ni émotions, ni sentiments, et ne pas s'inquiéter de qui vit et qui meurt.</desc>
 	</VatgrownAssassin17>
 	<Mercenary40>
-		<title>Mercenary</title>
-		<titleShort>Merc</titleShort>
-		<desc>Vas spent his teenage years as a mercenary, being hired to kill and maim others. He was tall, menacing, and frightening. He could instill fear into the hearts of any man who crossed him, and kill anyone he wanted.</desc>
+		<title>Mercenaire</title>
+		<titleShort>Mercenaire</titleShort>
+		<desc>Vas a passé son adolescence en étant mercenaire, étant engagé pour tuer et un tout un tas d'autres choses. Il était grand, menaçant, et effrayant. Il pouvait inspirer la peur dans les coeurs de tous les hommes qui croisaient son chemin, et tuer n'importe qui il voulait.</desc>
 	</Mercenary40>
 	<HiveWorldChild62>
-		<title>Hive world child</title>
-		<titleShort>Hiver</titleShort>
-		<desc>NAME had an isolated upbringing in an urbworld hive city. His hatred of heights kept him indoors often, and made him an introverted child.
+		<title>Enfant de la ruche</title>
+		<titleShort>Habitant de la ruche</titleShort>
+		<desc>NAME a eu une éducation isolée dans une cité-ruche d'un monde urbain. Sa haine de la hauteur l'a souvent gardé enfermé, et a fait de lui un enfant introverti.
 
-When HE did go out onto the catwalks of the city, HE enjoyed playing war games, becoming proficient with various simulation weapons.</desc>
+Lorsqu'il est allé les passerelles de la ville, il aimait jouer à des jeux de guerre, devenant très bon avec les diverses armes de la simulation.</desc>
 	</HiveWorldChild62>
 	<Microbiologist37>
-		<title>Microbiologist</title>
-		<titleShort>Biologist</titleShort>
+		<title>Microbiologiste</title>
+		<titleShort>Biologiste</titleShort>
 		<desc>A plague struck NAME's native urbworld. NAME and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.
 
 NAME barely escaped his homeworld as it fell into chaos.</desc>
