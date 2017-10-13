@@ -1230,7 +1230,7 @@ Après la mort de tous ceux qu'il connaissait, il fut laissé dans les ruines et
 	<ParamilitaryAgent3>
 		<title>Agent paramilitaire</title>
 		<titleShort>Agent</titleShort>
-		<desc>After scraping by on assorted shady jobs, NAME a rejoint un grand groupe paramilitaire afin de se battre durant une guerre dans son monde. Son rôle était d'infiltrer et espionner.</desc>
+		<desc>Après avoir vécu difficilement en enchainant divers boulots plus ou moins louche, NAME a rejoint un grand groupe paramilitaire afin de se battre durant une guerre dans son monde. Son rôle était d'infiltrer et espionner.</desc>
 	</ParamilitaryAgent3>
 	<HistoryStudent52>
 		<title>Etudiant en Histoire</title>
@@ -1345,43 +1345,43 @@ Lors de la détention, NAME est devenu doué pour faire des poignards a dévelop
 Plus tard, elle a revêtu une fourrure tachetée de wombat pygmé, discutant de l'importance de l'hygiène du sabot avec un groupe de muffalo âgés.</desc>
 	</InvoluntaryHermit72>
 	<HillbillyProdigy33>
-		<title>Hillbilly prodigy</title>
-		<titleShort>Hillbilly</titleShort>
-		<desc>Born on a cold hillbilly planet inhabited mainly by furred xenohumans, Benjamin grew up to the sound of bar fights and shootouts. Though his childhood was spent playing the banjo and working as a mechanic, his abnormal intelligence made him want something more; he entered medical school at age twenty.</desc>
+		<title>Montagnard prodige</title>
+		<titleShort>Montagnard</titleShort>
+		<desc>Né sur une froide planète montagneuse habitée principalement par des xenohumains couverts de fourrure, Benjamin a grandi dans le sond des combats de bar et des fusillades. Cependant il passa également son enfance à jouer du banjo et à travailler comme mécanicien, son intelligence hors du commun a fait de lui quelque chose de plus; il entra dans une école de médecine à l'âge de 20 ans.</desc>
 	</HillbillyProdigy33>
 	<MedicalScientist25>
-		<title>Medical scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>Benjamin enlisted as a doctor on a passing science vessel. Roaming the stars with a large crew of xenohumans and transbirds, he did genetic research on encountered species. He developed a deep friendship with one transbird but was forced to leave the ship when the captain dismissed all non-avians.</desc>
+		<title>Chercheur en médecine</title>
+		<titleShort>Scientifique</titleShort>
+		<desc>Benjamin s'engagea comme docteur sur un vaisseau scientifique qui était de passage. Errant dans les étoiles avec une grande équipe de xenohumains et de transbirds, il a fait des recherches génétiques sur les croisements d'espèces. Il a développé une profonde amitié avec un transbird mais a été forcé de partir du vaisseau lorsque le capitaine exclu les non-oiseaux.</desc>
 	</MedicalScientist25>
 	<UrbworldUrchin35>
 		<title>Urbworld urchin</title>
 		<titleShort>Urchin</titleShort>
-		<desc>Abandoned among the filthy concrete spires, NAME never knew HIS parents. HECAP never received formal education, and often resorted to doing menial labor in exchange for food. Sometimes HE lied, cheated, and stole to survive.</desc>
+		<desc>Abandonné parmi de dégoutantes tours en béton, NAME n'a jamais connu ses parents. Il n'a jamais reçu d'éducation classique, et a souvent du travailler dur en échange de nourriture. Parfois il mentait, trichait et volait pour survivre.</desc>
 	</UrbworldUrchin35>
 	<VoidRaider31>
-		<title>Void raider</title>
-		<titleShort>Raider</titleShort>
-		<desc>Craving adventure and glory, NAME set out across the void with a raider band, swearing his loyalty to his band and brothers, and spreading their glory through the stars with his blade and pistol in hand.</desc>
+		<title>Voleur du vide intersidéral</title>
+		<titleShort>Voleur</titleShort>
+		<desc>Brûlant d'envie d'aventure et de gloire, NAME pris la route à travers le vide intersidéral avec un groupe de voleur, jurant sa loyauté à son groupe et famille, et étendant leur gloire à travers les étoiles avec sa lame et son pistolet en main.</desc>
 	</VoidRaider31>
 	<MidworldSketcher21>
-		<title>Midworld sketcher</title>
-		<titleShort>Sketcher</titleShort>
-		<desc>NAME was born into a loving but poor family.
+		<title>Dessinateur du monde du milieu</title>
+		<titleShort>Dessinateur</titleShort>
+		<desc>NAME est né dans une famille pauvre mais aimante.
 
-HECAP discovered he had an artistic talent which he inherited from his father. HISCAP mother taught him the benefits of hard work and determination. As he grew older, NAME developed a fascination with technology and military history.</desc>
+HECAP a découvert qu'il avait un talent artistique qu'il a hérité de son père. Sa mère lui a appris les bénéfices que l'on reçoit lorsqu'on travaille dur et avec détermination. En vieillissant, NAME a dévelopé une passion pour la technologie et l'histoire militaire.</desc>
 	</MidworldSketcher21>
 	<MidworldSailor20>
-		<title>Midworld sailor</title>
-		<titleShort>Sailor</titleShort>
-		<desc>NAME joined his country's Royal Navy. After years as a non-commissioned officer, he eventually cracked and used the skills he had acquired to start a mutiny on his ship.
+		<title>Marin du monde du milieu</title>
+		<titleShort>Marin</titleShort>
+		<desc>NAME a rejoint la Royal Navy de son pays. Après des années en tant que sous-officier, il a finalement craqué et utilisé ses compétences pour déclencher une mutinerie sur le bateau.
 
-In the end, NAME was the leader of a large group of trained and dangerous pirates. He henceforth always had chefs to cook for him.</desc>
+A la fin de celle-ci, NAME est devenu le leader d'un grand groupe de dangereux pirates entraînés trained. Il a dorénavant toujours des chefs qui cuisinent pour lui.</desc>
 	</MidworldSailor20>
 	<CoreWorldStudent4>
-		<title>Core world student</title>
-		<titleShort>Student</titleShort>
-		<desc>Born a male named Alex, Alyssa didn't fit in well with the other boys. When very young, she preferred creative pursuits, such as crafting jewelry, over sports. She felt she had the wrong body. Luckily, her family and friends supported her sex reassignment; as a teen, she underwent surgery to become a female.</desc>
+		<title>Etudiant du monde central</title>
+		<titleShort>Etudiant</titleShort>
+		<desc>Né en tant que garçon nommé Alex, Alyssa n'a jamais ressemblé aux autres garçons. Très jeune, elle a choisi de suivre une carrière créative, comme la création de bijoux, plutot que le sport. Elle sentait qu'elle avait le mauvais corps. Heureusement, sa famille et ses amis her family ont supporté son changement de sexe; à l'adolescence, elle a subit une opération pour devenir une femme.</desc>
 	</CoreWorldStudent4>
 	<CoreWorldJeweler59>
 		<title>Core world jeweler</title>
