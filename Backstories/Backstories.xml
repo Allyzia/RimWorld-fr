@@ -1386,24 +1386,24 @@ A la fin de celle-ci, NAME est devenu le leader d'un grand groupe de dangereux p
 	<CoreWorldJeweler59>
 		<title>Bijoutier du monde central</title>
 		<titleShort>Bijoutier</titleShort>
-		<desc>Après Alyssa had completed all of her surgeries, she found that she had a lot of time and energy to dedicate to her passion: trinket crafting. She spent years perfecting her art as a jeweler, then left her home world to sell her wares across the galaxy.</desc>
+		<desc>Après qu'Alyssa eu accompli toutes ses opérations chirurgicales, elle trouva qu'elle avait beaucoup de temps et d'énergie à dédier à sa passion: la création de bijoux. Elle passa des années à perfectionner son art dans la joaillerie, puis elle quitta sa planète pour vendre ses créations à travers toute la galaxie.</desc>
 	</CoreWorldJeweler59>
 	<MedievalSquire61>
-		<title>Medieval squire</title>
-		<titleShort>Squire</titleShort>
-		<desc>William grew up on a medieval planet as a knight in training. He trained directly under the king's war adviser for most of his youth, and learned to fight with a sword and shield.</desc>
+		<title>Ecuyer médiéval</title>
+		<title>Ecuyer</titleShort>
+		<desc>William a grandi sur une planète médiévale comme un chevalier en devenir. Il s'entraîna directement sous le commandement du conseiller de la guerre du roi durant une bonne partie de sa jeunesse, et appris à se battre avec une épée et un bouclier.</desc>
 	</MedievalSquire61>
 	<MedievalKnight71>
-		<title>Medieval knight </title>
-		<titleShort>Knight</titleShort>
-		<desc>William fought for king and country on the battlefield, where he further honed his skill as a swordsman. His greatest glory was leading a charge into an enemy courtroom and capturing the king at sword point.</desc>
+		<title>Chevalier médiéval </title>
+		<titleShort>Chevalier</titleShort>
+		<desc>William s'est battu pour son roi et son pays sur le champs de bataille, où il a continué à approfondir ses compétences d'épéiste. Sa plus grande gloire a été de mener une charge dans la salle d'audience ennemie de d'avoir capturé le roi au moment clé.</desc>
 	</MedievalKnight71>
 	<StarSquire93>
-		<title>Star squire</title>
-		<titleShort>Squire</titleShort>
-		<desc>Born on a medieval world, NAME's first memory is of gazing up into the night's sky. 
+		<title>Ecuyer d'étoile</title>
+		<titleShort>Ecuyer</titleShort>
+		<desc>Né dans un monde médiéval, le premier souvenir de NAME est d'avoir levé les yeux sur le ciel de la nuit étoilée. 
 
-Ever since, HE dreamed of squiring for a knight amidst the star-filled heavens. HISCAP focus on that vision left HIM somewhat single-minded.</desc>
+Depuis ce moment, il rêvait d'être l'écuyer d'un chevalier parmi les paradis de ciels étoilés. Cette concentration sur cette vision lui a laissé quelques idées derrière la tête.</desc>
 	</StarSquire93>
 	<StarKnight78>
 		<title>Star knight</title>
