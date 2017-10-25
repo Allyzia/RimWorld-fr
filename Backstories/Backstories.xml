@@ -1415,40 +1415,40 @@ Pendant un moment, alors qu'il dérivait dans une capsule de fuite, son rêve d'
 	<DrugMule2>
 		<title>Transporteur de drogue</title>
 		<titleShort>Mule</titleShort>
-		<desc>Elevé dans un orphelinat, NAME turned towards the gang life at age ten.
+		<desc>Elevé dans un orphelinat, NAME s'est tourné vers la vie à l'âge de 10 ans.
 
-He was exploited by the local gang as a drug mule to traffic "substance F" across rival gang territory. He took a bullet or two.</desc>
+Il a été utilisé par un gang local comme mule pour un trafic de "substance F" à travers le territoire d'un gang rival. Il s'est fait tiré dessus une ou deux fois.</desc>
 	</DrugMule2>
 	<TestSubject82>
-		<title>Test subject</title>
-		<titleShort>Subject</titleShort>
-		<desc>NAME enrolled in a scientific study that promised it could make HIM smarter. Unfortunately, the side effects were very different than he expected.HE went insane and killed a number of people before escaping his homeworld.</desc>
+		<title>Sujet de laboratoire</title>
+		<titleShort>Sujet</titleShort>
+		<desc>NAME a été enrolé dans une étude scientifique dont on lui avait promis qu'ils pourraient le rendre plus intelligent. Malheureusement, les effets secondaires ont été très différents de ce à quoi il s'attendait. Il est devenu fou et a tué bon nombre de gens avant de s'échapper de son monde.</desc>
 	</TestSubject82>
 	<ArtisanFarmer56>
-		<title>Artisan farmer</title>
-		<titleShort>Farmer</titleShort>
-		<desc>NAME grew up on a HIS family's glitterworld farm. They were one of the last farms on the planet that preferred traditional farming methods to glitterworld technology.</desc>
+		<title>Artisan fermier</title>
+		<titleShort>Fermier</titleShort>
+		<desc>NAME a grandi dans la ferme familiale situé dans un monde scintillant. Ils étaient l'une des dernières fermes de la planète à préferer les méthodes de l'agriculture traditionnelle à la technologie du monde scintillant.</desc>
 	</ArtisanFarmer56>
 	<GeneticEngineer63>
-		<title>Genetic engineer</title>
-		<titleShort>Geneticist</titleShort>
-		<desc>NAME carried out HIS first genetic experiments on farm animals. HECAP soon grew to become quite skilled in all forms of genetic engineering.
+		<title>Ingénieur génétique</title>
+		<titleShort>Généticien</titleShort>
+		<desc>NAME a mené ses premières expériences génétiques sur des animaux de fermes. Il a rapidement grandi et est devenu plutôt compétent dans toutes les formes d'ingénieurie génétique.
 
-A horrifying lab accident left him with a mortal fear of rodents.</desc>
+Un terrible accident de laboratoire lui a laissé une peur bleue des rongeurs.</desc>
 	</GeneticEngineer63>
 	<Pampered62>
-		<title>Pampered</title>
-		<titleShort>Pampered</titleShort>
-		<desc>Born on a decadent glitterworld, NAME was given every expensive toy.
+		<title>Bichonné</title>
+		<titleShort>Bichonné</titleShort>
+		<desc>Né dans un monde brillant décadant, NAME recevait tous les jouets les plus chers.
 
-This pampered lifestyle caused HIM to miss many basic life lessons. HECAP developed a special aversion to cooking, and always ordered the staff to do the kitchen work.</desc>
+Cette vie aisée à fait qu'il n'a pas appris bon nombre des leçons de vie de base. Il a développé un véritable dégoût pour la cuisine, et a toujours ordonné au personnel de faire la cuisine.</desc>
 	</Pampered62>
 	<NinjaAssassin4>
 		<title>Ninja assassin</title>
 		<titleShort>Ninja</titleShort>
-		<desc>NAME performed stiletto-precise assassinations for an interplanetary conglomerate. HECAP was assigned the most complex missions involving disguise, deception, subterfuge, and efficient violence.
+		<desc>NAME a effectué des assassinats au poignard très précis pour un conglomérat interplanétaire. On lui a assigné les missions les plus complexes nécessitant déguisement, supercherie, subterfuge, et violence.
 
-A nasty incident with a potted plant and an assassination gone wrong left HIM with an aversion to plant life.</desc>
+Un mauvais incident avec with a potted plant and an assassination gone wrong left HIM with an aversion to plant life.</desc>
 	</NinjaAssassin4>
 	<MilitaryChild84>
 		<title>Military child</title>
